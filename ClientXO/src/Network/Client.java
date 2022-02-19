@@ -24,7 +24,7 @@ import player.Player;
 
 /**
  *
- * @author LapTop MarKet
+ * @author Team
  */
 public class Client extends Thread {
 
