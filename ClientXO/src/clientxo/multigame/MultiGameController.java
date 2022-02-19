@@ -23,7 +23,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author EgyJuba
+ * @author Team
  */
 public class MultiGameController implements Initializable {
     
