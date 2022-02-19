@@ -11,10 +11,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 
-/**
- *
- * @author LapTop MarKet
- */
+
 public class GameController extends Thread {
 
     public static ArrayList<Player> players;
