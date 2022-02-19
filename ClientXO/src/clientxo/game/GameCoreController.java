@@ -29,7 +29,7 @@ import player.Player;
 
 /**
  *
- * @author EgyJuba
+ * @author Team
  */
 public class GameCoreController implements Initializable {
     
