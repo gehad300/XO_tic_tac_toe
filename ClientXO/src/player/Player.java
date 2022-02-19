@@ -10,7 +10,7 @@ import javafx.scene.text.Text;
 
 /**
  *
- * @author EgyJuba
+ * @authorTeam
  */
 public class Player {
     int idnum;
