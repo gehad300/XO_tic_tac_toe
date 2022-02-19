@@ -26,7 +26,7 @@ import player.Player;
 
 /**
  *
- * @author EgyJuba
+ * @author Team
  */
 public class ListController implements Initializable {
 
