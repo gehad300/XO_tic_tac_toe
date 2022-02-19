@@ -26,7 +26,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author EgyJuba
+ * @author Team
  */
 public class loginController implements Initializable {
 
