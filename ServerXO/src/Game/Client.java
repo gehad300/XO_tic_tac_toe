@@ -17,7 +17,7 @@ import serverxo.ServerXO;
 
 /**
  *
- * @author LapTop MarKet
+ * 
  */
 class Client extends Thread {
 
