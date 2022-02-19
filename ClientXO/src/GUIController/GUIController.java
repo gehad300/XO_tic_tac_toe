@@ -14,7 +14,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author LapTop MarKet
+ * @author Team3
  */
 public class GUIController {
     public void signUpWindow(){
