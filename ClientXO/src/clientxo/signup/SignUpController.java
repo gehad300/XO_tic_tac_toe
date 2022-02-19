@@ -26,7 +26,7 @@ import player.Player;
 
 /**
  *
- * @author EgyJuba
+ * @authorTeam
  */
 public class SignUpController implements Initializable {
 
