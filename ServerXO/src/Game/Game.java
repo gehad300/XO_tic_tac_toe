@@ -5,10 +5,7 @@
  */
 package Game;
 
-/**
- *
- * @author LapTop MarKet
- */
+
 public class Game {
 
     char board[][];
